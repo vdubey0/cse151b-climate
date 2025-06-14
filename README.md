@@ -14,4 +14,6 @@ Dependencies:
 
 ```cnn_starter.ipynb``` is the provided started code.
 
+```sed-ablations.ipynb``` contains the experiments for varying the number of convolutional layers.
+
 ```/plots``` directory contains all the plots used in the report.
